@@ -7,7 +7,6 @@ container:
 env:
   CC_TEST_REPORTER_ID: ENCRYPTED[bdeb98f2a2ba4082bbf4806d0a524aa024f44cb58fbd9ef4e9758cd7d361e6324d483405e79b7929a4707cddde80d656]
 
-
 check_android_task:
   name: Run Android tests
   install_emulator_script:

@@ -1,0 +1,120 @@
+# 2023-02-23T21:55:08.783Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 2
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "GreetingActivityTest"
+    test_package: "com.github.MariemBaccari.mediato"
+    test_method: "useAppContext"
+    start_time {
+      seconds: 1677189304
+      nanos: 87000000
+    }
+    end_time {
+      seconds: 1677189305
+      nanos: 578000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\marie\\AndroidStudioProjects\\MediaTo\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_33(AVD) - 13\\logcat-com.github.MariemBaccari.mediato.GreetingActivityTest-useAppContext.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\marie\\AndroidStudioProjects\\MediaTo\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_33(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\marie\\AndroidStudioProjects\\MediaTo\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_33(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\marie\\AndroidStudioProjects\\MediaTo\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_33(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.github.MariemBaccari.mediato"
+    test_method: "useAppContext"
+    start_time {
+      seconds: 1677189306
+      nanos: 55000000
+    }
+    end_time {
+      seconds: 1677189307
+      nanos: 894000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\marie\\AndroidStudioProjects\\MediaTo\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_33(AVD) - 13\\logcat-com.github.MariemBaccari.mediato.MainActivityTest-useAppContext.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\marie\\AndroidStudioProjects\\MediaTo\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_33(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\marie\\AndroidStudioProjects\\MediaTo\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_33(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\marie\\AndroidStudioProjects\\MediaTo\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_33(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\marie\\AndroidStudioProjects\\MediaTo\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_33(AVD) - 13\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

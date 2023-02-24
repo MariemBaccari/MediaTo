@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.MariemBaccari.mediato.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-23T21:55:17" hostname="MARIEM" time="0.005">
+  <properties/>
+  <testcase name="addition_isCorrect" classname="com.github.MariemBaccari.mediato.ExampleUnitTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

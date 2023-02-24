@@ -1,0 +1,116 @@
+02-23 21:55:04.290 16966 16987 I TestRunner: started: useAppContext(com.github.MariemBaccari.mediato.MainActivityTest)
+02-23 21:55:04.295   574  1271 W InputManager-JNI: Input channel object '51ed5c com.github.MariemBaccari.mediato/com.github.MariemBaccari.mediato.GreetingActivity (client)' was disposed without first being removed with the input manager!
+02-23 21:55:04.346 16966 16987 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+02-23 21:55:04.533  1153 17003 D OneSearchSuggestProvider: Convert suggest response to search results for query= time=2588505 mResponse list size=0
+02-23 21:55:04.568   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f4768000 0x3f4f51000]
+02-23 21:55:04.579   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f665f000 0x3f6e48000]
+02-23 21:55:04.582   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f6e48000 0x3f7631000]
+02-23 21:55:04.587  3703  4012 W Parcel  : Expecting binder but got null!
+02-23 21:55:04.596 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.MainActivity@6484a in: PRE_ON_CREATE
+02-23 21:55:04.597 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.GreetingActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.MainActivity }, activity=com.github.MariemBaccari.mediato.MainActivity@6484a
+02-23 21:55:04.597 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+02-23 21:55:04.668  3495  3495 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+02-23 21:55:04.669  3495  3917 E HwDetectorWithState: a: 3
+02-23 21:55:04.685  3703  4012 D EGL_emulation: app_time_stats: avg=47811.43ms min=553.86ms max=95068.99ms count=2
+02-23 21:55:04.760 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.MainActivity@6484a in: CREATED
+02-23 21:55:04.761 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.GreetingActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.MainActivity }, activity=com.github.MariemBaccari.mediato.MainActivity@6484a
+02-23 21:55:04.762 16966 16966 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.github.MariemBaccari.mediato.MainActivity@6484a
+02-23 21:55:04.765 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.MainActivity@6484a in: STARTED
+02-23 21:55:04.766 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.GreetingActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.MainActivity }, activity=com.github.MariemBaccari.mediato.MainActivity@6484a
+02-23 21:55:04.766 16966 16966 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.github.MariemBaccari.mediato.MainActivity@6484a
+02-23 21:55:04.768 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.MainActivity@6484a in: RESUMED
+02-23 21:55:04.769 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.GreetingActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.MainActivity }, activity=com.github.MariemBaccari.mediato.MainActivity@6484a
+02-23 21:55:04.770 16966 16966 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.github.MariemBaccari.mediato.MainActivity@6484a
+02-23 21:55:04.808   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f4f51000 0x3f573a000]
+02-23 21:55:04.818   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3fa575000 0x3fad5e000]
+02-23 21:55:04.821  3703  4012 D EGL_emulation: app_time_stats: avg=691.50ms min=180.66ms max=1202.35ms count=2
+02-23 21:55:04.825   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f8000000 0x3f87e9000]
+02-23 21:55:04.841 16966 16989 W Parcel  : Expecting binder but got null!
+02-23 21:55:04.849   574   595 W ziparchive: Unable to open '/data/app/~~bbizbfnWEnJnFhEchazzyg==/com.github.MariemBaccari.mediato-jlA61EOuy4qLVR9SDTZg3A==/base.dm': No such file or directory
+02-23 21:55:04.851   574   595 I ActivityTaskManager: Displayed com.github.MariemBaccari.mediato/.MainActivity: +427ms
+02-23 21:55:04.867   574  2248 W InputManager-JNI: Input channel object '1363ffa Splash Screen com.github.MariemBaccari.mediato (client)' was disposed without first being removed with the input manager!
+02-23 21:55:04.875  1153  2030 D OneSearchSuggestProvider: Shut down the binder channel
+02-23 21:55:04.878  1153  1880 I s.nexuslauncher: oneway function results for code 2 on binder at 0x78162447b050 will be dropped but finished with status UNKNOWN_TRANSACTION
+02-23 21:55:04.912 11492 11492 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+02-23 21:55:04.916 11492 11492 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+02-23 21:55:04.916 11492 11492 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.github.MariemBaccari.mediato fieldId=-1 fieldName=null extras=null}, false)
+02-23 21:55:04.917 11492 11492 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+02-23 21:55:04.941 16966 16966 I ViewInteraction: Performing 'replace text(Mariem)' action on view view.getId() is <2131230960/com.github.MariemBaccari.mediato:id/mainName>
+02-23 21:55:04.964 16966 16987 W Baccari.mediato: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+02-23 21:55:04.965 16966 16966 D CompatibilityChangeReporter: Compat change id reported: 163400105; UID 10159; state: ENABLED
+02-23 21:55:04.970 16966 16966 I AssistStructure: Flattened final assist data: 1368 bytes, containing 1 windows, 8 views
+02-23 21:55:04.985 16966 16966 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230959/com.github.MariemBaccari.mediato:id/mainGoButton>
+02-23 21:55:05.079 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.MainActivity@6484a in: PAUSED
+02-23 21:55:05.082 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.GreetingActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.MainActivity }, activity=com.github.MariemBaccari.mediato.MainActivity@6484a
+02-23 21:55:05.082 16966 16966 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.github.MariemBaccari.mediato.MainActivity@6484a
+02-23 21:55:05.107 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.GreetingActivity@e1a6dd4 in: PRE_ON_CREATE
+02-23 21:55:05.108 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+02-23 21:55:05.109 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.MainActivity }, activity.getIntent()=Intent { cmp=com.github.MariemBaccari.mediato/.GreetingActivity (has extras) }, activity=com.github.MariemBaccari.mediato.GreetingActivity@e1a6dd4
+02-23 21:55:05.155 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.GreetingActivity@e1a6dd4 in: CREATED
+02-23 21:55:05.156 16966 16966 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.github.MariemBaccari.mediato.GreetingActivity@e1a6dd4
+02-23 21:55:05.156 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.MainActivity }, activity.getIntent()=Intent { cmp=com.github.MariemBaccari.mediato/.GreetingActivity (has extras) }, activity=com.github.MariemBaccari.mediato.GreetingActivity@e1a6dd4
+02-23 21:55:05.161 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.GreetingActivity@e1a6dd4 in: STARTED
+02-23 21:55:05.162 16966 16966 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.github.MariemBaccari.mediato.GreetingActivity@e1a6dd4
+02-23 21:55:05.162 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.MainActivity }, activity.getIntent()=Intent { cmp=com.github.MariemBaccari.mediato/.GreetingActivity (has extras) }, activity=com.github.MariemBaccari.mediato.GreetingActivity@e1a6dd4
+02-23 21:55:05.165 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.GreetingActivity@e1a6dd4 in: RESUMED
+02-23 21:55:05.165 16966 16966 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.github.MariemBaccari.mediato.GreetingActivity@e1a6dd4
+02-23 21:55:05.165 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.MainActivity }, activity.getIntent()=Intent { cmp=com.github.MariemBaccari.mediato/.GreetingActivity (has extras) }, activity=com.github.MariemBaccari.mediato.GreetingActivity@e1a6dd4
+02-23 21:55:05.223   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f4768000 0x3f4f51000]
+02-23 21:55:05.235   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f665f000 0x3f6e48000]
+02-23 21:55:05.245   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f6e48000 0x3f7631000]
+02-23 21:55:05.245 16966 16989 W Parcel  : Expecting binder but got null!
+02-23 21:55:05.262   574   595 I ActivityTaskManager: Displayed com.github.MariemBaccari.mediato/.GreetingActivity: +195ms
+02-23 21:55:05.279   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f7ffd000 0x3f7fff000]
+02-23 21:55:05.281   405   448 D goldfish-address-space: claimShared: Ask to claim region [0x3f7fcc000 0x3f7fce000]
+02-23 21:55:05.292   450   538 D AudioFlinger: mixer(0x7fcb37aeb9a0) throttle end: throttle time(38)
+02-23 21:55:05.641   405   448 D goldfish-address-space: claimShared: Ask to claim region [0x3f7d77000 0x3f7e42000]
+02-23 21:55:05.649   405   448 D goldfish-address-space: claimShared: Ask to claim region [0x3f7e42000 0x3f7f0d000]
+02-23 21:55:05.652   574  1287 W Parcel  : Expecting binder but got null!
+02-23 21:55:05.653   405   448 D goldfish-address-space: claimShared: Ask to claim region [0x3f7e42000 0x3f7f0d000]
+02-23 21:55:05.661   405   448 D goldfish-address-space: claimShared: Ask to claim region [0x3f7b0d000 0x3f7bd8000]
+02-23 21:55:05.669   574  1287 W Parcel  : Expecting binder but got null!
+02-23 21:55:05.720 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.MainActivity@6484a in: STOPPED
+02-23 21:55:05.720 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.GreetingActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.MainActivity }, activity=com.github.MariemBaccari.mediato.MainActivity@6484a
+02-23 21:55:05.720 16966 16966 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.github.MariemBaccari.mediato.MainActivity@6484a
+02-23 21:55:05.727 11492 11492 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+02-23 21:55:05.728 11492 11492 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+02-23 21:55:05.729 11492 11492 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.github.MariemBaccari.mediato fieldId=-1 fieldName=null extras=null}, false)
+02-23 21:55:05.730 11492 11492 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+02-23 21:55:05.752 16966 16966 I ViewInteraction: Checking 'androidx.test.espresso.intent.Intents$2@784cb82' assertion on view view.getRootView() to equal view
+02-23 21:55:05.774 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.GreetingActivity@e1a6dd4 in: PAUSED
+02-23 21:55:05.774 16966 16966 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.github.MariemBaccari.mediato.GreetingActivity@e1a6dd4
+02-23 21:55:05.774 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.MainActivity }, activity.getIntent()=Intent { cmp=com.github.MariemBaccari.mediato/.GreetingActivity (has extras) }, activity=com.github.MariemBaccari.mediato.GreetingActivity@e1a6dd4
+02-23 21:55:05.788   380   380 D Zygote  : Forked child process 17015
+02-23 21:55:05.800 17015 17015 I ri.mediato.test: Late-enabling -Xcheck:jni
+02-23 21:55:05.803   405   448 D goldfish-address-space: claimShared: Ask to claim region [0x3f4f51000 0x3f573a000]
+02-23 21:55:05.810   405   448 D goldfish-address-space: claimShared: Ask to claim region [0x3fb581000 0x3fbd6a000]
+02-23 21:55:05.812   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3fa575000 0x3fad5e000]
+02-23 21:55:05.819  3703  4012 W Parcel  : Expecting binder but got null!
+02-23 21:55:05.827 17015 17015 W ri.mediato.test: Unexpected CPU variant for x86: x86_64.
+02-23 21:55:05.827 17015 17015 W ri.mediato.test: Known variants: atom, sandybridge, silvermont, kabylake, default
+02-23 21:55:05.836  1742  1753 I adbd    : jdwp connection from 17015
+02-23 21:55:05.844   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f573a000 0x3f5c4a000]
+02-23 21:55:05.937 17015 17015 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10160; state: ENABLED
+02-23 21:55:05.995 17015 17015 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+02-23 21:55:05.999 17015 17015 D nativeloader: Configuring classloader-namespace for other apk /system/framework/android.test.mock.jar. target_sdk_version=33, uses_libraries=ALL, library_path=/data/app/~~qC2F9wRgCIF44CKcvn1QSg==/com.github.MariemBaccari.mediato.test-MrdVR0vEU5P8WuiLk6yRUg==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.github.MariemBaccari.mediato.test
+02-23 21:55:06.000 17015 17015 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+02-23 21:55:06.001 17015 17015 W ri.mediato.test: ClassLoaderContext shared library size mismatch. Expected=0, found=2 (PCL[] | PCL[]{PCL[/system/framework/android.test.base.jar*1628045882]#PCL[/system/framework/android.test.mock.jar*849501951]})
+02-23 21:55:06.003 17015 17015 D nativeloader: Configuring classloader-namespace for other apk /system/framework/android.test.runner.jar. target_sdk_version=33, uses_libraries=ALL, library_path=/data/app/~~qC2F9wRgCIF44CKcvn1QSg==/com.github.MariemBaccari.mediato.test-MrdVR0vEU5P8WuiLk6yRUg==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.github.MariemBaccari.mediato.test
+02-23 21:55:06.003 17015 17015 W ziparchive: Unable to open '/data/app/~~qC2F9wRgCIF44CKcvn1QSg==/com.github.MariemBaccari.mediato.test-MrdVR0vEU5P8WuiLk6yRUg==/base.dm': No such file or directory
+02-23 21:55:06.003 17015 17015 W ziparchive: Unable to open '/data/app/~~qC2F9wRgCIF44CKcvn1QSg==/com.github.MariemBaccari.mediato.test-MrdVR0vEU5P8WuiLk6yRUg==/base.dm': No such file or directory
+02-23 21:55:06.030 17015 17015 D nativeloader: Configuring classloader-namespace for other apk /data/app/~~qC2F9wRgCIF44CKcvn1QSg==/com.github.MariemBaccari.mediato.test-MrdVR0vEU5P8WuiLk6yRUg==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~qC2F9wRgCIF44CKcvn1QSg==/com.github.MariemBaccari.mediato.test-MrdVR0vEU5P8WuiLk6yRUg==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.github.MariemBaccari.mediato.test
+02-23 21:55:06.037  3703  4012 D EGL_emulation: app_time_stats: avg=675.44ms min=229.93ms max=1120.95ms count=2
+02-23 21:55:06.044 17015 17015 V GraphicsEnvironment: ANGLE Developer option for 'com.github.MariemBaccari.mediato.test' set to: 'default'
+02-23 21:55:06.046 17015 17015 V GraphicsEnvironment: ANGLE GameManagerService for com.github.MariemBaccari.mediato.test: false
+02-23 21:55:06.046 17015 17015 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+02-23 21:55:06.051 17015 17015 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+02-23 21:55:06.051 17015 17015 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+02-23 21:55:06.067 17015 17042 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+02-23 21:55:06.068 17015 17042 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+02-23 21:55:06.071 17015 17042 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+02-23 21:55:06.117  1433  1433 V InlineSuggestionRenderService: handleDestroySuggestionViews called for 0:1697947794
+02-23 21:55:06.118 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.MainActivity@6484a in: DESTROYED
+02-23 21:55:06.118 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.GreetingActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.github.MariemBaccari.mediato/.MainActivity }, activity=com.github.MariemBaccari.mediato.MainActivity@6484a
+02-23 21:55:06.120 16966 16966 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+02-23 21:55:06.125   574  2248 W InputManager-JNI: Input channel object '38b8b13 com.github.MariemBaccari.mediato/com.github.MariemBaccari.mediato.MainActivity (client)' was disposed without first being removed with the input manager!
+02-23 21:55:06.129 16966 16987 I TestRunner: finished: useAppContext(com.github.MariemBaccari.mediato.MainActivityTest)

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.github.MariemBaccari.mediato.GreetingActivityTest" tests="2" failures="0" errors="0" skipped="0" time="4.578" timestamp="2023-02-23T21:55:08" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_2_API_33(AVD) - 13" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="useAppContext" classname="com.github.MariemBaccari.mediato.GreetingActivityTest" time="1.466" />
+  <testcase name="useAppContext" classname="com.github.MariemBaccari.mediato.MainActivityTest" time="1.838" />
+</testsuite>

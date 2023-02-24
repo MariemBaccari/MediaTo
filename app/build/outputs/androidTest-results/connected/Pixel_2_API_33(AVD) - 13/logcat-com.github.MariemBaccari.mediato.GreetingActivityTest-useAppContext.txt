@@ -1,0 +1,70 @@
+02-23 21:55:02.319 16966 16987 I TestRunner: started: useAppContext(com.github.MariemBaccari.mediato.GreetingActivityTest)
+02-23 21:55:02.336 16966 16987 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+02-23 21:55:02.487   574   591 W System  : A resource failed to call close.
+02-23 21:55:02.626   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f614f000 0x3f6938000]
+02-23 21:55:02.645   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f4f51000 0x3f573a000]
+02-23 21:55:02.650   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3fb581000 0x3fbd6a000]
+02-23 21:55:02.688  3703  4012 W Parcel  : Expecting binder but got null!
+02-23 21:55:02.694 16966 16990 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+02-23 21:55:02.706  1153  1693 D EGL_emulation: app_time_stats: avg=3572.61ms min=3572.61ms max=3572.61ms count=1
+02-23 21:55:02.710 16966 16990 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+02-23 21:55:02.718 16966 16990 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+02-23 21:55:02.731  3495  3495 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+02-23 21:55:02.749  3495  3932 E HwDetectorWithState: a: 3
+02-23 21:55:02.828 16966 16966 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+02-23 21:55:02.853 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.GreetingActivity@6896827 in: PRE_ON_CREATE
+02-23 21:55:02.857 16966 16966 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+02-23 21:55:03.076 16966 16966 W Baccari.mediato: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+02-23 21:55:03.076 16966 16966 W Baccari.mediato: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+02-23 21:55:03.089 16966 16966 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10159; state: ENABLED
+02-23 21:55:03.270 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.GreetingActivity@6896827 in: CREATED
+02-23 21:55:03.271 16966 16966 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.github.MariemBaccari.mediato.GreetingActivity@6896827
+02-23 21:55:03.276 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.GreetingActivity@6896827 in: STARTED
+02-23 21:55:03.277 16966 16966 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.github.MariemBaccari.mediato.GreetingActivity@6896827
+02-23 21:55:03.281 16966 16966 D LifecycleMonitor: Lifecycle status change: com.github.MariemBaccari.mediato.GreetingActivity@6896827 in: RESUMED
+02-23 21:55:03.282 16966 16966 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.github.MariemBaccari.mediato.GreetingActivity@6896827
+02-23 21:55:03.380 16966 16989 D HostConnection: createUnique: call
+02-23 21:55:03.381 16966 16989 D HostConnection: HostConnection::get() New Host Connection established 0x78169440ddd0, tid 16989
+02-23 21:55:03.387 16966 16989 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+02-23 21:55:03.391 16966 16989 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+02-23 21:55:03.391 16966 16989 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+02-23 21:55:03.402 16966 16989 D EGL_emulation: eglCreateContext: 0x78169440e250: maj 2 min 0 rcv 2
+02-23 21:55:03.435 16966 16989 D EGL_emulation: eglMakeCurrent: 0x78169440e250: ver 2 0 (tinfo 0x7818b7dc6080) (first time)
+02-23 21:55:03.437  3703  4012 D EGL_emulation: app_time_stats: avg=3301.54ms min=3301.54ms max=3301.54ms count=1
+02-23 21:55:03.476   227   227 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+02-23 21:55:03.476 16966 16989 I Gralloc4: mapper 4.x is not supported
+02-23 21:55:03.479 16966 16989 D HostConnection: createUnique: call
+02-23 21:55:03.480 16966 16989 D HostConnection: HostConnection::get() New Host Connection established 0x78169440d710, tid 16989
+02-23 21:55:03.480 16966 16989 D goldfish-address-space: allocate: Ask for block of size 0x100
+02-23 21:55:03.481 16966 16989 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3f3ffe000 size 0x2000
+02-23 21:55:03.483   227   227 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+02-23 21:55:03.486   226   226 I servicemanager: Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest.
+02-23 21:55:03.486 16966 16989 W Gralloc4: allocator 4.x is not supported
+02-23 21:55:03.488   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f4768000 0x3f4f51000]
+02-23 21:55:03.496 16966 16989 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+02-23 21:55:03.497   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f6938000 0x3f7121000]
+02-23 21:55:03.500   405 15060 D goldfish-address-space: claimShared: Ask to claim region [0x3f87e9000 0x3f8fd2000]
+02-23 21:55:03.565 16966 16989 W Parcel  : Expecting binder but got null!
+02-23 21:55:03.570   574   595 W ziparchive: Unable to open '/data/app/~~bbizbfnWEnJnFhEchazzyg==/com.github.MariemBaccari.mediato-jlA61EOuy4qLVR9SDTZg3A==/base.dm': No such file or directory
+02-23 21:55:03.575   574   595 I ActivityTaskManager: Displayed com.github.MariemBaccari.mediato/.GreetingActivity: +1s207ms
+02-23 21:55:03.601   574   639 W InputManager-JNI: Input channel object '8aa40fc Splash Screen com.github.MariemBaccari.mediato (client)' was disposed without first being removed with the input manager!
+02-23 21:55:03.629  1153  2030 D OneSearchSuggestProvider: Shut down the binder channel
+02-23 21:55:03.634  1153  1177 I s.nexuslauncher: oneway function results for code 2 on binder at 0x781624477f00 will be dropped but finished with status UNKNOWN_TRANSACTION
+02-23 21:55:03.680 11492 11492 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+02-23 21:55:03.695 11492 11492 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+02-23 21:55:03.696 11492 11492 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.github.MariemBaccari.mediato fieldId=-1 fieldName=null extras=null}, false)
+02-23 21:55:03.697 11492 11492 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+02-23 21:55:03.723 16966 16987 W FileTestStorage: Output properties is not supported.
+02-23 21:55:03.725 16966 16987 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+02-23 21:55:03.743 16966 16987 D EventInjectionStrategy: Creating injection strategy with input manager.
+02-23 21:55:03.745 16966 16987 W Baccari.mediato: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+02-23 21:55:03.745 16966 16987 W Baccari.mediato: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+02-23 21:55:03.745 16966 16987 W Baccari.mediato: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+02-23 21:55:03.783 16966 16966 W Baccari.mediato: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+02-23 21:55:03.783 16966 16966 W Baccari.mediato: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+02-23 21:55:03.783 16966 16966 W Baccari.mediato: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+02-23 21:55:03.810 16966 16966 W Baccari.mediato: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+02-23 21:55:03.810 16966 16966 W Baccari.mediato: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+02-23 21:55:03.810 16966 16966 W Baccari.mediato: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+02-23 21:55:03.820 16966 16966 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Greetings Mariem !"}' assertion on view view.getId() is <2131230922/com.github.MariemBaccari.mediato:id/greetingMessage>
+02-23 21:55:03.822 16966 16987 I TestRunner: finished: useAppContext(com.github.MariemBaccari.mediato.GreetingActivityTest)

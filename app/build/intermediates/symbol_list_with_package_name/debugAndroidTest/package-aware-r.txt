@@ -1,0 +1,3 @@
+com.github.MariemBaccari.mediato.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
